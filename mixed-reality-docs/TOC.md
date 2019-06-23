@@ -193,14 +193,22 @@
 ### Unity
 #### MR Learning Modules
 ##### HoloLens 2
-###### Base Module
-####### [Base Module - Overview & Objectives](mrlearning-base.md)
-####### [Project initialization and first application](mrlearning-base-ch1.md)
-####### [User Interface, Hand Tracking, and Mixed Reality Toolkit Configuration](mrlearning-base-ch2.md)
-####### [Dynamic Content Placement and Solvers](mrlearning-base-ch3.md)
-####### [3D Object Interaction](mrlearning-base-ch4.md)
-####### [Advanced Input](mrlearning-base-ch5.md)
-####### [Demo App](mrlearning-base-ch6.md)
+###### Base
+####### [1. Overview & Objectives](mrlearning-base.md)
+####### [2. Initialize your project and first application](mrlearning-base-ch1.md)
+####### [3. Create user interface and configure MRTK](mrlearning-base-ch2.md)
+####### [4.	Dynamically place content using solvers](mrlearning-base-ch3.md)
+####### [5.	Interacting with 3D objects](mrlearning-base-ch4.md)
+####### [6.	Explore advanced input options](mrlearning-base-ch5.md)
+####### [7.	Create a unique sample application](mrlearning-base-ch6.md)
+###### Azure Spatial Anchors
+####### [1. ASA and Hololens 2](mrlearning-asa-ch1.md)
+####### [2. Persistence and sharing](mrlearning-sharing(photon)-ch1.md)
+###### Azure Speech Services
+####### [1. SDK Setup](mrlearning-speechSDK-ch1.md)
+####### [2. Offline](mrlearning-speechSDK-ch2.md)
+####### [3. Translation](mrlearning-speechSDK-ch3.md)
+####### [4. Intent/LUIS](mrlearning-speechSDK-ch4.md)
 #### HoloLens (1st gen) open source sample apps
 ##### [Periodic Table of the Elements](periodic-table-of-the-elements.md)
 ##### [Lunar Module](lunar-module.md)
